@@ -2,8 +2,8 @@
 <p>Especificações:</p>
  <p>Para rodar o projeto, precisamos da instalação no nodeJs e do composer.
  Para isso devemos rodar os seguintes comandos na pasta do projeto.
- <p> <b>composer update - para criar a pasta vendor
-   npm install - para criar a pasta de módulos do node js</b></p>
+<p> <b>composer update </b> - para criar a pasta vendor</p>
+   <p><b>npm install </b> - para criar a pasta de módulos do node js</p>
   <p>
  <p> O sistema consiste em um site de adminstração de blogs, podendo ter artigos enviados por seus usuários que sejam autores.</p>
   <p>Regras:</p>
