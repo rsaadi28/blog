@@ -5,8 +5,8 @@
   <b>composer update - para criar a pasta vendor
    npm install - para criar a pasta de módulos do node js</b>
   <p>
-  O sistema consiste em um site de adminstração de blogs, podendo ter artigos enviados por seus usuarios que sejam autores.
-  Regras:
+ <p> O sistema consiste em um site de adminstração de blogs, podendo ter artigos enviados por seus usuários que sejam autores.</p>
+  <p>Regras:</p>
   <li> O usuario administrador delega as funções de autor e administrador para outro usuarios e enxerga tudo que foi feito no site.</li> 
   <li> O administrador não consegue editar um artigo de outro usuário.</li>
   <li> Cada usuario não administrador terá acesso somente à lista de artigos publicados.</li>
